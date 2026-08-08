@@ -1,3 +1,4 @@
+**Merge with [https://github.com/MCTian-mi/Gregfluxology](https://github.com/MCTian-mi/Gregfluxology/tree/modern)**
 
 Installation information
 =======
